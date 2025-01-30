@@ -1,0 +1,6 @@
+app:
+  kafka:
+    hubspotUri: https://api.hubapi.com/crm/v3/objects
+    topics:
+      input: Project #TODO: update this
+      output: Enriched Project #TODO: update this

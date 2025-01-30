@@ -1,4 +1,4 @@
-package au.com.ps4impact.isa.hubspot;
+package au.com.ps4impact.isa.hubspot.model;
 
 import lombok.Data;
 
